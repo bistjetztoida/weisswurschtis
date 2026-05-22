@@ -1,0 +1,2 @@
+# Production dependencies (minimal by design)
+# Add your project dependencies here
